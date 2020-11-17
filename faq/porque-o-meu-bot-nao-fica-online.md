@@ -13,3 +13,4 @@
 {% hint style="warning" %}
 💻 **Obs:** Todos os comandos citados devem ser usados no chat **`#🔌┃cmd-discloud`** do nosso servidor.
 {% endhint %}
+.music-comments 
